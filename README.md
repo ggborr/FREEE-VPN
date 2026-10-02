@@ -3,7 +3,7 @@
 [流浪地球](https://liulangdiqiu.cc/#/register?code=Q6mCgZi1)
 ****
 
-# 更新时间2026/10/1,17：30
+# 更新时间2026/10/2,17：30
 v2ray订阅链接
 https://raw.githubusercontent.com/ggborr/FREEE-VPN/refs/heads/main/9v2ray
 
