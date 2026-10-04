@@ -9,11 +9,30 @@ unified-delay: true
 global-client-fingerprint: chrome
 keep-alive-interval: 360
 proxies:
-  - {name: 关注https://github.com/ggborr/FREEE-VPN, server: 52.77.218.154, port: 8989, type: ss, cipher: chacha20-ietf-poly1305, password: f0b9ae63-91a7-4673-924e-498e0e0828c0, udp: true}
-  - {name: 关注https://github.com/ggborr/FREEE-VPN 2, server: 52.77.218.154, port: 8989, type: ss, cipher: chacha20-ietf-poly1305, password: f0b9ae63-91a7-4673-924e-498e0e0828c0, udp: true}
-  - {name: 关注https://github.com/ggborr/FREEE-VPN 3, server: 56.10.64.132, port: 8989, type: ss, cipher: chacha20-ietf-poly1305, password: f0b9ae63-91a7-4673-924e-498e0e0828c0, udp: true}
-  - {name: 关注https://github.com/ggborr/FREEE-VPN 4, server: 3.35.214.95, port: 8989, type: ss, cipher: chacha20-ietf-poly1305, password: f0b9ae63-91a7-4673-924e-498e0e0828c0, udp: true}
-  - {name: 关注https://github.com/ggborr/FREEE-VPN 5, server: 56.10.64.132, port: 8989, type: ss, cipher: chacha20-ietf-poly1305, password: f0b9ae63-91a7-4673-924e-498e0e0828c0, udp: true}
+  - {name: 关注https://github.com/ggborr/FREEE-VPN, server: gsg192i.zxom.eu.org, port: 20008, type: trojan, password: 5b140fc6a0a74e7f, sni: gsg192i.zxom.eu.org, skip-cert-verify: true, udp: true}
+  - {name: 关注https://github.com/ggborr/FREEE-VPN 2, server: inviting-ferret.rooster465.autos, port: 443, type: trojan, password: UX82473651, sni: inviting-ferret.rooster465.autos, skip-cert-verify: true, udp: true}
+  - {name: 关注https://github.com/ggborr/FREEE-VPN 3, server: holy-lamb.rooster465.autos, port: 443, type: trojan, password: UX82473651, sni: holy-lamb.rooster465.autos, skip-cert-verify: true, udp: true}
+  - {name: 关注https://github.com/ggborr/FREEE-VPN 4, server: accurate-frog.rooster465.autos, port: 443, type: trojan, password: UX82473651, sni: accurate-frog.rooster465.autos, skip-cert-verify: true, udp: true}
+  - {name: 关注https://github.com/ggborr/FREEE-VPN 5, server: ultimate-jaguar.rooster465.autos, port: 443, type: trojan, password: UX82473651, sni: ultimate-jaguar.rooster465.autos, skip-cert-verify: true, udp: true}
+  - {name: 关注https://github.com/ggborr/FREEE-VPN 6, server: delicate-buck.rooster465.autos, port: 443, type: trojan, password: UX82473651, sni: delicate-buck.rooster465.autos, skip-cert-verify: true, udp: true}
+  - {name: 关注https://github.com/ggborr/FREEE-VPN 7, server: 43.201.103.218, port: 8443, type: ss, cipher: chacha20-ietf-poly1305, password: 7e68e32f-8015-4f37-9082-70e8b0b58043, udp: true}
+  - {name: 关注https://github.com/ggborr/FREEE-VPN 8, server: 31.77.168.35, port: 443, type: trojan, password: MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo, sni: d3-de2.cloud-cdn.xyz, skip-cert-verify: true, udp: true}
+  - {name: 关注https://github.com/ggborr/FREEE-VPN 9, server: 46.17.41.166, port: 10991, type: ss, cipher: aes-256-gcm, password: 895b4b796a357570, udp: true}
+  - {name: 关注https://github.com/ggborr/FREEE-VPN 10, server: 46.17.42.141, port: 20998, type: ss, cipher: aes-256-gcm, password: 6b39ae3234dfd68b, udp: true}
+  - {name: 关注https://github.com/ggborr/FREEE-VPN 11, server: 194.87.196.13, port: 10991, type: ss, cipher: aes-256-gcm, password: 4938e975724d0ed1, udp: true}
+  - {name: 关注https://github.com/ggborr/FREEE-VPN 12, server: 46.17.45.31, port: 10991, type: ss, cipher: aes-256-gcm, password: bdb313adf74c2ede, udp: true}
+  - {name: 关注https://github.com/ggborr/FREEE-VPN 13, server: 212.192.221.129, port: 20999, type: ss, cipher: aes-256-gcm, password: 9cfaa78d51ac366f, udp: true}
+  - {name: 关注https://github.com/ggborr/FREEE-VPN 14, server: 45.144.172.123, port: 20998, type: ss, cipher: aes-256-gcm, password: 78235e7dc55e9ad1, udp: true}
+  - {name: 关注https://github.com/ggborr/FREEE-VPN 15, server: v4.hdacd.com, port: 30804, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 关注https://github.com/ggborr/FREEE-VPN 16, server: v36.hdacd.com, port: 30836, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 关注https://github.com/ggborr/FREEE-VPN 17, server: v33.hdacd.com, port: 30833, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 关注https://github.com/ggborr/FREEE-VPN 18, server: v24.hdacd.com, port: 30824, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 关注https://github.com/ggborr/FREEE-VPN 19, server: v6.hdacd.com, port: 30806, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 关注https://github.com/ggborr/FREEE-VPN 20, server: meet-goshawk.rooster465.autos, port: 443, type: trojan, password: UX82473651, sni: meet-goshawk.rooster465.autos, skip-cert-verify: true, udp: true}
+  - {name: 关注https://github.com/ggborr/FREEE-VPN 21, server: pet-antelope.rooster465.autos, port: 443, type: trojan, password: UX82473651, sni: pet-antelope.rooster465.autos, skip-cert-verify: true, udp: true}
+  - {name: 关注https://github.com/ggborr/FREEE-VPN 22, server: prime-corgi.rooster465.autos, port: 443, type: trojan, password: UX82473651, sni: prime-corgi.rooster465.autos, skip-cert-verify: true, udp: true}
+  - {name: 关注https://github.com/ggborr/FREEE-VPN 23, server: renderer-stream-1-832.mirra.now, port: 443, type: vmess, uuid: 8ffa41d4-e6b5-4af5-a8a9-69e26bec75f5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /api/v1/gpu-stream/socket, headers: {Host: renderer-stream-1-832.mirra.now}}, udp: true}
+  - {name: 关注https://github.com/ggborr/FREEE-VPN 24, server: sacred-anemone.rooster465.autos, port: 443, type: trojan, password: UX82473651, sni: sacred-anemone.rooster465.autos, skip-cert-verify: true, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -25,6 +44,25 @@ proxy-groups:
       - 关注https://github.com/ggborr/FREEE-VPN 3
       - 关注https://github.com/ggborr/FREEE-VPN 4
       - 关注https://github.com/ggborr/FREEE-VPN 5
+      - 关注https://github.com/ggborr/FREEE-VPN 6
+      - 关注https://github.com/ggborr/FREEE-VPN 7
+      - 关注https://github.com/ggborr/FREEE-VPN 8
+      - 关注https://github.com/ggborr/FREEE-VPN 9
+      - 关注https://github.com/ggborr/FREEE-VPN 10
+      - 关注https://github.com/ggborr/FREEE-VPN 11
+      - 关注https://github.com/ggborr/FREEE-VPN 12
+      - 关注https://github.com/ggborr/FREEE-VPN 13
+      - 关注https://github.com/ggborr/FREEE-VPN 14
+      - 关注https://github.com/ggborr/FREEE-VPN 15
+      - 关注https://github.com/ggborr/FREEE-VPN 16
+      - 关注https://github.com/ggborr/FREEE-VPN 17
+      - 关注https://github.com/ggborr/FREEE-VPN 18
+      - 关注https://github.com/ggborr/FREEE-VPN 19
+      - 关注https://github.com/ggborr/FREEE-VPN 20
+      - 关注https://github.com/ggborr/FREEE-VPN 21
+      - 关注https://github.com/ggborr/FREEE-VPN 22
+      - 关注https://github.com/ggborr/FREEE-VPN 23
+      - 关注https://github.com/ggborr/FREEE-VPN 24
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -35,6 +73,25 @@ proxy-groups:
       - 关注https://github.com/ggborr/FREEE-VPN 3
       - 关注https://github.com/ggborr/FREEE-VPN 4
       - 关注https://github.com/ggborr/FREEE-VPN 5
+      - 关注https://github.com/ggborr/FREEE-VPN 6
+      - 关注https://github.com/ggborr/FREEE-VPN 7
+      - 关注https://github.com/ggborr/FREEE-VPN 8
+      - 关注https://github.com/ggborr/FREEE-VPN 9
+      - 关注https://github.com/ggborr/FREEE-VPN 10
+      - 关注https://github.com/ggborr/FREEE-VPN 11
+      - 关注https://github.com/ggborr/FREEE-VPN 12
+      - 关注https://github.com/ggborr/FREEE-VPN 13
+      - 关注https://github.com/ggborr/FREEE-VPN 14
+      - 关注https://github.com/ggborr/FREEE-VPN 15
+      - 关注https://github.com/ggborr/FREEE-VPN 16
+      - 关注https://github.com/ggborr/FREEE-VPN 17
+      - 关注https://github.com/ggborr/FREEE-VPN 18
+      - 关注https://github.com/ggborr/FREEE-VPN 19
+      - 关注https://github.com/ggborr/FREEE-VPN 20
+      - 关注https://github.com/ggborr/FREEE-VPN 21
+      - 关注https://github.com/ggborr/FREEE-VPN 22
+      - 关注https://github.com/ggborr/FREEE-VPN 23
+      - 关注https://github.com/ggborr/FREEE-VPN 24
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -46,6 +103,25 @@ proxy-groups:
       - 关注https://github.com/ggborr/FREEE-VPN 3
       - 关注https://github.com/ggborr/FREEE-VPN 4
       - 关注https://github.com/ggborr/FREEE-VPN 5
+      - 关注https://github.com/ggborr/FREEE-VPN 6
+      - 关注https://github.com/ggborr/FREEE-VPN 7
+      - 关注https://github.com/ggborr/FREEE-VPN 8
+      - 关注https://github.com/ggborr/FREEE-VPN 9
+      - 关注https://github.com/ggborr/FREEE-VPN 10
+      - 关注https://github.com/ggborr/FREEE-VPN 11
+      - 关注https://github.com/ggborr/FREEE-VPN 12
+      - 关注https://github.com/ggborr/FREEE-VPN 13
+      - 关注https://github.com/ggborr/FREEE-VPN 14
+      - 关注https://github.com/ggborr/FREEE-VPN 15
+      - 关注https://github.com/ggborr/FREEE-VPN 16
+      - 关注https://github.com/ggborr/FREEE-VPN 17
+      - 关注https://github.com/ggborr/FREEE-VPN 18
+      - 关注https://github.com/ggborr/FREEE-VPN 19
+      - 关注https://github.com/ggborr/FREEE-VPN 20
+      - 关注https://github.com/ggborr/FREEE-VPN 21
+      - 关注https://github.com/ggborr/FREEE-VPN 22
+      - 关注https://github.com/ggborr/FREEE-VPN 23
+      - 关注https://github.com/ggborr/FREEE-VPN 24
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -69,6 +145,25 @@ proxy-groups:
       - 关注https://github.com/ggborr/FREEE-VPN 3
       - 关注https://github.com/ggborr/FREEE-VPN 4
       - 关注https://github.com/ggborr/FREEE-VPN 5
+      - 关注https://github.com/ggborr/FREEE-VPN 6
+      - 关注https://github.com/ggborr/FREEE-VPN 7
+      - 关注https://github.com/ggborr/FREEE-VPN 8
+      - 关注https://github.com/ggborr/FREEE-VPN 9
+      - 关注https://github.com/ggborr/FREEE-VPN 10
+      - 关注https://github.com/ggborr/FREEE-VPN 11
+      - 关注https://github.com/ggborr/FREEE-VPN 12
+      - 关注https://github.com/ggborr/FREEE-VPN 13
+      - 关注https://github.com/ggborr/FREEE-VPN 14
+      - 关注https://github.com/ggborr/FREEE-VPN 15
+      - 关注https://github.com/ggborr/FREEE-VPN 16
+      - 关注https://github.com/ggborr/FREEE-VPN 17
+      - 关注https://github.com/ggborr/FREEE-VPN 18
+      - 关注https://github.com/ggborr/FREEE-VPN 19
+      - 关注https://github.com/ggborr/FREEE-VPN 20
+      - 关注https://github.com/ggborr/FREEE-VPN 21
+      - 关注https://github.com/ggborr/FREEE-VPN 22
+      - 关注https://github.com/ggborr/FREEE-VPN 23
+      - 关注https://github.com/ggborr/FREEE-VPN 24
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -84,6 +179,25 @@ proxy-groups:
       - 关注https://github.com/ggborr/FREEE-VPN 3
       - 关注https://github.com/ggborr/FREEE-VPN 4
       - 关注https://github.com/ggborr/FREEE-VPN 5
+      - 关注https://github.com/ggborr/FREEE-VPN 6
+      - 关注https://github.com/ggborr/FREEE-VPN 7
+      - 关注https://github.com/ggborr/FREEE-VPN 8
+      - 关注https://github.com/ggborr/FREEE-VPN 9
+      - 关注https://github.com/ggborr/FREEE-VPN 10
+      - 关注https://github.com/ggborr/FREEE-VPN 11
+      - 关注https://github.com/ggborr/FREEE-VPN 12
+      - 关注https://github.com/ggborr/FREEE-VPN 13
+      - 关注https://github.com/ggborr/FREEE-VPN 14
+      - 关注https://github.com/ggborr/FREEE-VPN 15
+      - 关注https://github.com/ggborr/FREEE-VPN 16
+      - 关注https://github.com/ggborr/FREEE-VPN 17
+      - 关注https://github.com/ggborr/FREEE-VPN 18
+      - 关注https://github.com/ggborr/FREEE-VPN 19
+      - 关注https://github.com/ggborr/FREEE-VPN 20
+      - 关注https://github.com/ggborr/FREEE-VPN 21
+      - 关注https://github.com/ggborr/FREEE-VPN 22
+      - 关注https://github.com/ggborr/FREEE-VPN 23
+      - 关注https://github.com/ggborr/FREEE-VPN 24
   - name: 📲 电报信息
     type: select
     proxies:
@@ -94,6 +208,25 @@ proxy-groups:
       - 关注https://github.com/ggborr/FREEE-VPN 3
       - 关注https://github.com/ggborr/FREEE-VPN 4
       - 关注https://github.com/ggborr/FREEE-VPN 5
+      - 关注https://github.com/ggborr/FREEE-VPN 6
+      - 关注https://github.com/ggborr/FREEE-VPN 7
+      - 关注https://github.com/ggborr/FREEE-VPN 8
+      - 关注https://github.com/ggborr/FREEE-VPN 9
+      - 关注https://github.com/ggborr/FREEE-VPN 10
+      - 关注https://github.com/ggborr/FREEE-VPN 11
+      - 关注https://github.com/ggborr/FREEE-VPN 12
+      - 关注https://github.com/ggborr/FREEE-VPN 13
+      - 关注https://github.com/ggborr/FREEE-VPN 14
+      - 关注https://github.com/ggborr/FREEE-VPN 15
+      - 关注https://github.com/ggborr/FREEE-VPN 16
+      - 关注https://github.com/ggborr/FREEE-VPN 17
+      - 关注https://github.com/ggborr/FREEE-VPN 18
+      - 关注https://github.com/ggborr/FREEE-VPN 19
+      - 关注https://github.com/ggborr/FREEE-VPN 20
+      - 关注https://github.com/ggborr/FREEE-VPN 21
+      - 关注https://github.com/ggborr/FREEE-VPN 22
+      - 关注https://github.com/ggborr/FREEE-VPN 23
+      - 关注https://github.com/ggborr/FREEE-VPN 24
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -105,6 +238,25 @@ proxy-groups:
       - 关注https://github.com/ggborr/FREEE-VPN 3
       - 关注https://github.com/ggborr/FREEE-VPN 4
       - 关注https://github.com/ggborr/FREEE-VPN 5
+      - 关注https://github.com/ggborr/FREEE-VPN 6
+      - 关注https://github.com/ggborr/FREEE-VPN 7
+      - 关注https://github.com/ggborr/FREEE-VPN 8
+      - 关注https://github.com/ggborr/FREEE-VPN 9
+      - 关注https://github.com/ggborr/FREEE-VPN 10
+      - 关注https://github.com/ggborr/FREEE-VPN 11
+      - 关注https://github.com/ggborr/FREEE-VPN 12
+      - 关注https://github.com/ggborr/FREEE-VPN 13
+      - 关注https://github.com/ggborr/FREEE-VPN 14
+      - 关注https://github.com/ggborr/FREEE-VPN 15
+      - 关注https://github.com/ggborr/FREEE-VPN 16
+      - 关注https://github.com/ggborr/FREEE-VPN 17
+      - 关注https://github.com/ggborr/FREEE-VPN 18
+      - 关注https://github.com/ggborr/FREEE-VPN 19
+      - 关注https://github.com/ggborr/FREEE-VPN 20
+      - 关注https://github.com/ggborr/FREEE-VPN 21
+      - 关注https://github.com/ggborr/FREEE-VPN 22
+      - 关注https://github.com/ggborr/FREEE-VPN 23
+      - 关注https://github.com/ggborr/FREEE-VPN 24
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -125,6 +277,25 @@ proxy-groups:
       - 关注https://github.com/ggborr/FREEE-VPN 3
       - 关注https://github.com/ggborr/FREEE-VPN 4
       - 关注https://github.com/ggborr/FREEE-VPN 5
+      - 关注https://github.com/ggborr/FREEE-VPN 6
+      - 关注https://github.com/ggborr/FREEE-VPN 7
+      - 关注https://github.com/ggborr/FREEE-VPN 8
+      - 关注https://github.com/ggborr/FREEE-VPN 9
+      - 关注https://github.com/ggborr/FREEE-VPN 10
+      - 关注https://github.com/ggborr/FREEE-VPN 11
+      - 关注https://github.com/ggborr/FREEE-VPN 12
+      - 关注https://github.com/ggborr/FREEE-VPN 13
+      - 关注https://github.com/ggborr/FREEE-VPN 14
+      - 关注https://github.com/ggborr/FREEE-VPN 15
+      - 关注https://github.com/ggborr/FREEE-VPN 16
+      - 关注https://github.com/ggborr/FREEE-VPN 17
+      - 关注https://github.com/ggborr/FREEE-VPN 18
+      - 关注https://github.com/ggborr/FREEE-VPN 19
+      - 关注https://github.com/ggborr/FREEE-VPN 20
+      - 关注https://github.com/ggborr/FREEE-VPN 21
+      - 关注https://github.com/ggborr/FREEE-VPN 22
+      - 关注https://github.com/ggborr/FREEE-VPN 23
+      - 关注https://github.com/ggborr/FREEE-VPN 24
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
